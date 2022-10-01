@@ -1,0 +1,15 @@
+F:\Programers22\Ams_AppendLineWhile\bin\Debug\net6.0\Ams_AppendLineWhile.exe
+F:\Programers22\Ams_AppendLineWhile\bin\Debug\net6.0\Ams_AppendLineWhile.deps.json
+F:\Programers22\Ams_AppendLineWhile\bin\Debug\net6.0\Ams_AppendLineWhile.runtimeconfig.json
+F:\Programers22\Ams_AppendLineWhile\bin\Debug\net6.0\Ams_AppendLineWhile.dll
+F:\Programers22\Ams_AppendLineWhile\bin\Debug\net6.0\ref\Ams_AppendLineWhile.dll
+F:\Programers22\Ams_AppendLineWhile\bin\Debug\net6.0\Ams_AppendLineWhile.pdb
+F:\Programers22\Ams_AppendLineWhile\obj\Debug\net6.0\Ams_AppendLineWhile.csproj.AssemblyReference.cache
+F:\Programers22\Ams_AppendLineWhile\obj\Debug\net6.0\Ams_AppendLineWhile.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programers22\Ams_AppendLineWhile\obj\Debug\net6.0\Ams_AppendLineWhile.AssemblyInfoInputs.cache
+F:\Programers22\Ams_AppendLineWhile\obj\Debug\net6.0\Ams_AppendLineWhile.AssemblyInfo.cs
+F:\Programers22\Ams_AppendLineWhile\obj\Debug\net6.0\Ams_AppendLineWhile.csproj.CoreCompileInputs.cache
+F:\Programers22\Ams_AppendLineWhile\obj\Debug\net6.0\Ams_AppendLineWhile.dll
+F:\Programers22\Ams_AppendLineWhile\obj\Debug\net6.0\ref\Ams_AppendLineWhile.dll
+F:\Programers22\Ams_AppendLineWhile\obj\Debug\net6.0\Ams_AppendLineWhile.pdb
+F:\Programers22\Ams_AppendLineWhile\obj\Debug\net6.0\Ams_AppendLineWhile.genruntimeconfig.cache
